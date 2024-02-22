@@ -1,0 +1,6 @@
+
+
+TITLE_FONT = ('Segoe UI', 24)
+BUTTON_FONT = ('Segoe UI', 12)
+
+DEFAULT_PAD = 10
